@@ -1,2 +1,2 @@
-# portfolio [yashsarvaiya.netlify.app]
+# portfolio [https://yashsarvaiya.netlify.app/]
 3D portfolio
